@@ -19,7 +19,7 @@
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="postman" alt="postman" width="40" height="40"/>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTDLj-17hLuPse4K5lo4VLNFRn89rjLSB-KKIZMdNjB0Q&s" title="soapui" alt="soapui" width="40" height="40"/>
  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" title="android-studio" alt="android-studio" width="40" height="40"/>
-<img src="https://images.app.goo.gl/3k1okAfNUmSdESFh6" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQFqUrvezr20po31wE1nXuuZu5qG-j23g8Uig&s" title="charles-proxy" alt="charles-proxy" width="40" height="40"/>
 <img src="https://www.megaleechers.com/storage/Fiddler-Everywhere-Icon.png" title="fiddler" alt="fiddler" width="40" height="40"/>
 <img src="https://ph-files.imgix.net/f1aba60e-b071-4afd-bde6-7c123853a3ae.png?auto=format" title="proxyman" alt="proxyman" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="mysql" alt="mysql" width="40" height="40"/>
@@ -29,3 +29,15 @@
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="vscode" alt="vscode" width="40" height="40"/>
 </p>
 <h2>Тестовые Артефакты </h2>
+<p> 
+ <ul>
+  <li>  <a href="https://github.com/GeorgiyQA/theory">Теория тестирования</a>  </li>
+<li>  <a href="https://github.com/GeorgiyQA/docs">Тестовая документация</a>  </li>
+<li>  <a href="https://github.com/GeorgiyQA/design">Техники тест-дизайна</a>   </li>
+<li> <a href="https://github.com/GeorgiyQA/web">Тестирование веб-приложений</a>   </li>
+<li>  <a href="https://github.com/GeorgiyQA/mobile">Тестирование мобильных приложений</a>  </li>
+<li>  <a href="https://github.com/GeorgiyQA/database">Работа с базами данных</a>   </li>
+<li> <a href="https://github.com/GeorgiyQA/api">Тестирование API</a>  </li>
+<li> <a href="https://github.com/GeorgiyQA/git_bash"> Работа с git и bash</a>  </li>
+</ul>
+</p>
